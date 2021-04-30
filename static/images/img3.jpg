@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Online Highlight Code | Paste into Microsoft Word or OneNote etc.</title>
+<meta name="keywords" content="Code Highlight,Syntax Highlight Code,Highlight Syntax,Colorful Code,Paste Highlight Code to Word,thesis (paper) code format," />
+<meta name="description" content="A free online tool for code highlighting. You can copy and paste the highlighted code into your editing tools, such as Microsoft Word or OneNote." />
+<base href="/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link href="./assets/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+<link rel="stylesheet" href="./assets/css/atom-one-light.min.css">
+<script src="./assets/js/highlight.min.js"></script>
+<link rel="stylesheet" href="./assets/css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="styles.57c106d6f58798d689e3.css"></head>
+<body>
+<app-root></app-root>
+<script src="./assets/js/jquery-2.2.3.min.js"></script>
+<script src="./assets/js/bootstrap.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133708799-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-133708799-2');
+  </script>
+<script type="text/javascript" src="runtime.06daa30a2963fa413676.js"></script><script type="text/javascript" src="polyfills.c6c514b2e8bf698c6533.js"></script><script type="text/javascript" src="main.41331fa5767f50561302.js"></script></body>
+</html>
